@@ -28,4 +28,4 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           server-dir: /developer/blog/
-          local-dir: ./.next/server/pages
+          local-dir: ./.next/server/pages/
